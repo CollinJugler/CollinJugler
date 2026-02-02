@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Cytometry In R
+
+Location: Phoenix, Arizona, USA
+
+My Favorite Fluorophore/Metal-Isotope: Pacific Blue
+
+Previous Coding Experience: Currently trying to learn (ChatGPT is my best friend right now)
+
+What I Hope to Get From This Course: A faster way to analyze my high parameter spectral flow data, including clustering and annotation.
 <!--
 **CollinJugler/CollinJugler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
